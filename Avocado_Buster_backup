@@ -1,0 +1,8 @@
+#!/bin/bash
+echo “Scanning dat avocado.”
+processing-java  --sketch=/Users/d059566/Documents/Avocado_Buster/Processing_Sketch --run
+echo "All done!"
+read -p "Now tell me how juicy it is: "
+echo "Status of object: $REPLY" >> /Users/d059566/Documents/Avocado_Buster/Data/$(ls -t | head -n1)
+exit 0
+

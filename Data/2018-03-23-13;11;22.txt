@@ -1,0 +1,5 @@
+AS7263 online!
+ Reading: R[1.32] S[1.04] T[6.69] U[9.99] V[7.23] W[4.84] tempF[80.6]
+ Reading: R[1.32] S[1.04] T[6.69] U[8.99] V[7.23] W[4.84] tempF[80.6]
+ Reading: R[1.32] S[1.04] T[6.69] U[8.99] V[7.23] W[4.84] tempF[80.6]
+second day
