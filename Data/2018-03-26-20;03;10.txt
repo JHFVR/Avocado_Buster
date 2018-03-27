@@ -1,0 +1,5 @@
+��Iҁ��a�I@Ѓa��������B!AS7263 online!
+ Reading: R[0.00] S[0.00] T[0.00] U[1.00] V[1.03] W[0.00] tempF[80.6]
+ Reading: R[0.00] S[0.00] T[0.00] U[1.00] V[1.03] W[0.00] tempF[80.6]
+ Reading: R[0.00] S[0.00] T[0.00] U[1.00] V[1.03] W[0.00] tempF[80.6]
+wrong read

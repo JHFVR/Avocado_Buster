@@ -1,0 +1,5 @@
+A��263 online!
+ Reading: R[2.63] S[1.04] T[2.23] U[2.00] V[2.07] W[1.21] tempF[87.8]
+ Reading: R[2.63] S[0.00] T[1.12] U[1.00] V[1.03] W[1.21] tempF[87.8]
+ Reading: R[2.63] S[0.00] T[1.12] U[1.00] V[1.03] W[1.21] tempF[87.8]
+yummy

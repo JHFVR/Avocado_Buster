@@ -1,0 +1,7 @@
+I2C Error
+I2C Error
+ID (should be 0x3E orA��263 online!
+ Reading: R[5.27] S[6.23] T[42.37] U[50.97] V[40.27] W[29.04] tempF[77.0]
+ Reading: R[3.95] S[6.23] T[34.57] U[41.97] V[40.27] W[24.20] tempF[77.0]
+ Reading: R[3.95] S[6.23] T[30.11] U[37.97] V[40.27] W[21.78] tempF[77.0]
+Yummay and juicy

@@ -1,0 +1,5 @@
+A��263 online!
+ Reading: R[349.14] S[32.19] T[24.53] U[14.99] V[14.46] W[8.47] tempF[80.6]
+ Reading: R[329.37] S[38.42] T[27.88] U[17.99] V[16.52] W[12.10] tempF[82.4]
+ Reading: R[1.32] S[1.04] T[0.00] U[0.00] V[0.00] W[0.00] tempF[80.6]
+False data input

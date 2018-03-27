@@ -1,0 +1,5 @@
+AS7263 online!
+ Reading: R[0.00] S[0.00] T[0.00] U[0.00] V[0.00] W[0.00] tempF[86.0]
+ Reading: R[0.00] S[0.00] T[0.00] U[0.00] V[0.00] W[0.00] tempF[86.0]
+ Reading: R[0.00] S[0.00] T[0.00] U[0.00] V[0.00] W[0.00] tempF[86.0]
+nooooooo
